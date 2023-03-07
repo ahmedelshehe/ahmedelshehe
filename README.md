@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
 <h3 align="center">Software Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://ahmedayman49.netlify.app/](https://ahmedayman49.netlify.app/)
 
